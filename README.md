@@ -28,6 +28,8 @@ https://pool.cryptobroker.io/zcl Running MPOS
 
 http://zclassic.coin-miners.info/ and http://zdash.coin-miners.info/
 
+http://zclassic.miningspeed.com, running Z-NOMP and custom frontend
+
 Usage
 =====
 
