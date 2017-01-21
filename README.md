@@ -26,6 +26,8 @@ http://zclmine.com/ Custom frontend with 1% of the fee going to the Zclassic don
 
 https://pool.cryptobroker.io/zcl Running MPOS and 0.5% of the fee goes to the Zclassic donation fund!
 
+http://zclassic.miningspeed.com Running Z-nom with custom frontend, 0% fee
+
 http://zclassic.coin-miners.info/ and http://zdash.coin-miners.info/
 
 Usage
